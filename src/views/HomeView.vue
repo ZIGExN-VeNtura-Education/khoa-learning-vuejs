@@ -1,14 +1,14 @@
 <script>
-import LoginForm from '../components/LoginForm.vue'
+import Day2 from '../components/day2/Day2.vue'
 export default {
   components: {
-    LoginForm
+    Day2
   }
 }
 </script>
 
 <template>
  <main>
-   <LoginForm />
+   <Day2 />
  </main>
 </template>
